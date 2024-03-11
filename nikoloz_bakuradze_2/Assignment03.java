@@ -8,7 +8,7 @@ package quizes.q1.nikoloz_bakuradze_2;
  */
 public class Assignment03 {
     public static void main(String[] args) {
-        System.out.print("C:\Users\Student\Desktop\oop2024spring-main\quizes\q1\nikoloz_bakuradze_2\hamster\suv");
+        System.out.print("C:\\Users\\Student\\Desktop\\oop2024spring-main\\quizes\\q1\\nikoloz_bakuradze_2\\hamster\\suv");
     }
 
 }
